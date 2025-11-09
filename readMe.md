@@ -19,4 +19,4 @@
 
 * Here's a screenshot of the application:
 
-![Application Screenshot](./assets/screenshot.png)
+![Application Screenshot](./assets/Screenshot.png)

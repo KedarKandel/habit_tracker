@@ -1,7 +1,5 @@
 
 // === VARIABLE DEFINITIONS ===
-
-
 // State management
 let state = {
   habits: []

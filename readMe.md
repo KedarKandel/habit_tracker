@@ -17,3 +17,6 @@
 - The user can import the list of task using a json file.
 - similarly the user can export the todo lists.
 
+* Here's a screenshot of the application:
+
+![Application Screenshot](./assets/screenshot.png)
